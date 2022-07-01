@@ -24,7 +24,7 @@ import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 import java.sql.Connection;
 import java.sql.SQLException;
-
+//very great comment
 @Api("API for HR app")
 @Path("/hr")
 public class HR {
